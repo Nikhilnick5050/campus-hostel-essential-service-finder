@@ -1,0 +1,286 @@
+[
+  {
+    "id": "svc-library",
+    "name": "Central Library",
+    "category": "Library",
+    "description": "A quiet place for reading, studying and borrowing books. Study tables, reference section and a digital catalogue are available.",
+    "location": "Academic Block, Ground Floor",
+    "area": "Campus",
+    "timings": "8:00 AM – 8:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00001",
+    "facilities": [
+      "Reading hall",
+      "Book lending",
+      "Digital catalogue",
+      "Study tables"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=college%20library",
+    "active": true,
+    "popular": true
+  },
+  {
+    "id": "svc-mess",
+    "name": "Hostel Mess",
+    "category": "Mess & Food",
+    "description": "Information about food facilities for hostel students. Serves breakfast, lunch, snacks and dinner.",
+    "location": "Hostel Dining Area, Block A",
+    "area": "Hostel",
+    "timings": "7:30–9:30 AM, 12:30–2:00 PM, 7:30–9:30 PM",
+    "contact": "+91 90000 00002",
+    "facilities": [
+      "Vegetarian meals",
+      "Weekly menu",
+      "Snacks counter",
+      "Water dispenser"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=hostel%20mess",
+    "active": true,
+    "popular": true
+  },
+  {
+    "id": "svc-medical",
+    "name": "Medical Room",
+    "category": "Medical Support",
+    "description": "Campus health room for first aid, basic check-ups and emergency assistance.",
+    "location": "Campus Health Room, Admin Block",
+    "area": "Campus",
+    "timings": "9:00 AM – 5:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00003",
+    "facilities": [
+      "First aid",
+      "Rest beds",
+      "Basic medicines",
+      "Emergency contact"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=medical%20room",
+    "active": true,
+    "popular": true
+  },
+  {
+    "id": "svc-transport",
+    "name": "College Bus Service",
+    "category": "Transport",
+    "description": "College buses and shuttle routes for daily commuting to and from campus.",
+    "location": "Main Gate, Transport Office",
+    "area": "Campus",
+    "timings": "6:30 AM – 7:00 PM",
+    "contact": "+91 90000 00004",
+    "facilities": [
+      "Daily routes",
+      "Bus pass",
+      "Route map",
+      "Help desk"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=college%20bus%20stop",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-wifi",
+    "name": "Wi-Fi & IT Support",
+    "category": "Wi-Fi & IT Support",
+    "description": "Campus Wi-Fi access and technical help for login issues, devices and software.",
+    "location": "IT Cell, Computer Block",
+    "area": "Campus",
+    "timings": "9:00 AM – 6:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00005",
+    "facilities": [
+      "Campus Wi-Fi",
+      "Password help",
+      "Device support",
+      "Software help"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=it%20support",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-admin",
+    "name": "Administration Office",
+    "category": "Admin & Help Desk",
+    "description": "Student help desk for admissions, documents, certificates and general queries.",
+    "location": "Admin Block, 1st Floor",
+    "area": "Campus",
+    "timings": "10:00 AM – 4:00 PM (Mon–Fri)",
+    "contact": "+91 90000 00006",
+    "facilities": [
+      "Document help",
+      "Certificates",
+      "Fee queries",
+      "General help"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=administration%20office",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-laundry",
+    "name": "Laundry Service",
+    "category": "Laundry",
+    "description": "Washing, drying and ironing service for hostel students.",
+    "location": "Hostel Block B, Ground Floor",
+    "area": "Hostel",
+    "timings": "8:00 AM – 8:00 PM",
+    "contact": "+91 90000 00007",
+    "facilities": [
+      "Washing",
+      "Drying",
+      "Ironing",
+      "Pickup & drop"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=laundry",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-stationery",
+    "name": "Stationery Shop",
+    "category": "Stationery Shop",
+    "description": "Books, notebooks, pens, printing and photocopy services for students.",
+    "location": "Near Main Gate, Shop Row",
+    "area": "Campus",
+    "timings": "9:00 AM – 7:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00008",
+    "facilities": [
+      "Stationery",
+      "Printing",
+      "Photocopy",
+      "Notebooks"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=stationery%20shop",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-sports",
+    "name": "Sports Complex",
+    "category": "Sports Facilities",
+    "description": "Grounds, courts and equipment for cricket, football, badminton and indoor games.",
+    "location": "Sports Ground, East Campus",
+    "area": "Campus",
+    "timings": "6:00 AM – 8:00 AM & 4:00 PM – 7:00 PM",
+    "contact": "+91 90000 00009",
+    "facilities": [
+      "Cricket ground",
+      "Football field",
+      "Badminton court",
+      "Equipment room"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=sports%20complex",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-hostel-office",
+    "name": "Hostel Office",
+    "category": "Hostel Facilities",
+    "description": "Hostel administration for room allotment, maintenance requests and hostel rules.",
+    "location": "Hostel Block A, Ground Floor",
+    "area": "Hostel",
+    "timings": "9:00 AM – 6:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00010",
+    "facilities": [
+      "Room allotment",
+      "Maintenance",
+      "Complaints",
+      "Visitor help"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=hostel%20office",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-canteen",
+    "name": "Campus Canteen",
+    "category": "Mess & Food",
+    "description": "Snacks, beverages and quick meals for students between classes.",
+    "location": "Student Centre, Ground Floor",
+    "area": "Campus",
+    "timings": "8:00 AM – 8:00 PM",
+    "contact": "+91 90000 00011",
+    "facilities": [
+      "Snacks",
+      "Beverages",
+      "Quick meals",
+      "Sitting area"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=canteen",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-reading-room",
+    "name": "Reading Room",
+    "category": "Library",
+    "description": "A silent study space with individual desks, open late during exams.",
+    "location": "Academic Block, 2nd Floor",
+    "area": "Campus",
+    "timings": "8:00 AM – 10:00 PM",
+    "contact": "+91 90000 00012",
+    "facilities": [
+      "Silent study",
+      "Individual desks",
+      "Charging points",
+      "Exam hours"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=reading%20room",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-pharmacy",
+    "name": "Campus Pharmacy",
+    "category": "Medical Support",
+    "description": "Basic medicines and health supplies available on campus.",
+    "location": "Near Medical Room, Admin Block",
+    "area": "Campus",
+    "timings": "9:00 AM – 6:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00013",
+    "facilities": [
+      "Basic medicines",
+      "Health supplies",
+      "First-aid kits"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=pharmacy",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-gym",
+    "name": "Hostel Gym",
+    "category": "Sports Facilities",
+    "description": "A basic gym with cardio and strength equipment for hostel residents.",
+    "location": "Hostel Block C, Ground Floor",
+    "area": "Hostel",
+    "timings": "5:30 AM – 9:00 AM & 5:00 PM – 9:00 PM",
+    "contact": "+91 90000 00014",
+    "facilities": [
+      "Cardio machines",
+      "Weights",
+      "Trainer (demo)",
+      "Lockers"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=gym",
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "svc-print-shop",
+    "name": "Print & Xerox Centre",
+    "category": "Stationery Shop",
+    "description": "Printing, photocopying, binding and laminating services.",
+    "location": "Computer Block, Ground Floor",
+    "area": "Campus",
+    "timings": "9:00 AM – 7:00 PM (Mon–Sat)",
+    "contact": "+91 90000 00015",
+    "facilities": [
+      "Printing",
+      "Photocopy",
+      "Binding",
+      "Lamination"
+    ],
+    "mapLink": "https://www.openstreetmap.org/search?query=print%20shop",
+    "active": true,
+    "popular": false
+  }
+]

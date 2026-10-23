@@ -1,0 +1,22 @@
+{
+  "name": "campus-hostel-essential-service-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Campus & Hostel Essential Services Finder — a student-focused website to discover essential campus and hostel services.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "bcryptjs": "^2.4.3",
+    "lucide-react": "^0.441.0",
+    "next": "^15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "overrides": {
+    "postcss": "8.5.23"
+  }
+}
